@@ -1,0 +1,8 @@
+.wrapper {
+  width: 43%;
+  display: incline-block;
+}
+
+.wrapper > img {
+  width: 100%
+}
